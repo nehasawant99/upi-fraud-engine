@@ -1,0 +1,12 @@
+transaction_id,user_id,amount,timestamp,device_id,city,beneficiary,status
+TX007,U103,2000,2026-05-29 12:45:00,D010,Delhi,market@upi,Success
+TX008,U103,75000,2026-05-29 01:10:00,D011,Delhi,loan@upi,Success
+TX009,U104,999,2026-05-29 14:20:00,D015,Bangalore,food@upi,Success
+TX010,U104,120000,2026-05-29 02:05:00,D016,Bangalore,crypto@upi,Failed
+TX011,U105,500,2026-05-29 09:00:00,D020,Hyderabad,shop@upi,Success
+TX012,U105,45000,2026-05-29 09:05:00,D021,Hyderabad,abc@upi,Success
+TX013,U106,3000,2026-05-29 16:30:00,D025,Chennai,travel@upi,Success
+TX014,U106,250000,2026-05-29 03:00:00,D026,Chennai,foreign@upi,Failed
+TX015,U107,1500,2026-05-29 11:15:00,D030,Kolkata,test@upi,Success
+TX016,U107,1500,2026-05-29 11:17:00,D030,Kolkata,test@upi,Failed
+TX017,U107,1500,2026-05-29 11:19:00,D031,Kolkata,test@upi,Success
