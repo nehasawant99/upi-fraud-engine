@@ -1,10 +1,10 @@
-🛡️ UPI Fraud Detection & Risk Scoring Engine  
+## UPI Fraud Detection & Risk Scoring Engine  
 
 A full‑stack fraud intelligence platform that simulates cyber‑attacks, scores transaction risks, and visualizes suspicious activity in real time. Built with **Flask**, **Pandas**, **Plotly/Dash**, and **NetworkX**, this project transforms raw UPI transaction data into actionable fraud insights.  
 
 ---
 
-🚀 Features  
+## Features  
 - **Risk Scoring Engine**  
   Calculates transaction risk based on amount anomalies, device history, and behavioral patterns.  
 - **User Risk Profiles**  
@@ -32,7 +32,7 @@ A full‑stack fraud intelligence platform that simulates cyber‑attacks, score
 
 ---
 
-🛠️ Tech Stack  
+## Tech Stack  
 - Backend: Flask, Pandas  
 - Visualization: Matplotlib, Seaborn, Plotly, Dash  
 - Graph Analysis: NetworkX  
@@ -40,7 +40,7 @@ A full‑stack fraud intelligence platform that simulates cyber‑attacks, score
 
 ---
 
-📊 Sample Visuals  
+## Sample Visuals  
 - Risk level distribution bar chart  
 - Risk score trend line chart  
 - Top fraud reasons bar chart  
@@ -48,7 +48,7 @@ A full‑stack fraud intelligence platform that simulates cyber‑attacks, score
 
 ---
 
-⚡ Getting Started  
+## Getting Started  
 1. Clone the repo:  
    ```bash
    git clone https://github.com/nehasawant99/upi-fraud-engine.git
@@ -65,7 +65,7 @@ A full‑stack fraud intelligence platform that simulates cyber‑attacks, score
 
 ---
 
-🔍 Future Enhancements  
+## Future Enhancements  
 - Real‑time streaming with Kafka  
 - Geo‑location anomaly detection  
 - Machine learning models for predictive fraud scoring  
@@ -73,6 +73,6 @@ A full‑stack fraud intelligence platform that simulates cyber‑attacks, score
 
 ---
 
-🏆 Why It’s Unique  
+ ## Why It’s Unique  
 Unlike static fraud reports, this engine combines **risk scoring, interactive dashboards, and network analysis** into one cohesive platform — making fraud detection **visual, explainable, and actionable**.  
 
